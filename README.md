@@ -274,4 +274,4 @@ pillow
 
 ## Autores
 
-Michel Ruiz — Universidad del Valle de Guatemala — 2026
+Michel Ruiz — Escuela Colombiana de Ingenieria Julio Garavito — 2026
