@@ -275,5 +275,5 @@ pillow
 
 ## Autores
 
-Michel Ruiz — Escuela Colombiana de Ingenieria Julio Garavito — 2026
+Michelle Ruiz — Escuela Colombiana de Ingenieria Julio Garavito / 2026-2
 
